@@ -9,7 +9,7 @@
 ##### sudo yum install git make gcc 
 ##### sudo systemctl enable jenkins
 ##### sudo systemctl start jenkins
-##### sudo systemctl status jenkins`
+##### sudo systemctl status jenkins
 
 
 ## Ubuntu Server
