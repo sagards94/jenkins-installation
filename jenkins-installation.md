@@ -1,7 +1,7 @@
 # jenkins-installation
 
 ## Linux Server
-###### $ sudo wget -O /etc/yum.repos.d/jenkins.repo \https://pkg.jenkins.io/redhat/jenkins.repo
+###### sudo wget -O /etc/yum.repos.d/jenkins.repo \https://pkg.jenkins.io/redhat/jenkins.repo
 ###### sudo rpm --import https://pkg.jenkins.io/redhat/jenkins.io.key
 ##### sudo yum upgrade
 ##### sudo yum install jenkins
